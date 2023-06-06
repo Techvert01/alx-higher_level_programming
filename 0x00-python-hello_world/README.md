@@ -1,2 +1,1 @@
-Not empty
 Hello, World!
